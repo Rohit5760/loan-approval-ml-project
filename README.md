@@ -85,7 +85,7 @@ Although the dataset includes a separate test file, this project focuses on trai
 ## 🔗 Connect
 
 - https://www.linkedin.com/in/rohit-bangar-24b174305/
-- https://www.linkedin.com/posts/rohit-bangar-24b174305_nptel-pythonfordatascience-machinelearning-activity-7327283692282773504-Ne6e?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE3M71sBvXL6bjEf0VycjRfBCY_j_CGjk1o
+- [https://www.linkedin.com/posts/rohit-bangar-24b174305_nptel-pythonfordatascience-machinelearning-activity-7327283692282773504-Ne6e?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE3M71sBvXL6bjEf0VycjRfBCY_j_CGjk1o](https://www.linkedin.com/posts/rohit-bangar-24b174305_nptel-pythonfordatascience-machinelearning-activity-7327291881162207232-Yrpy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE3M71sBvXL6bjEf0VycjRfBCY_j_CGjk1o)
 
 ---
 
