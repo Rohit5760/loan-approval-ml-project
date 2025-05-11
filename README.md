@@ -15,7 +15,6 @@ Loan approval is a critical decision-making process for financial institutions. 
 - Source: [Loan Prediction Problem Dataset (Kaggle)](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset)
 - Files used:
   - `Train_data.csv` – training and validation
-  - `Test_data.csv` – final unseen prediction
 
 ---
 
@@ -53,7 +52,6 @@ Loan approval is a critical decision-making process for financial institutions. 
 
 ├── Loan_Prediction.ipynb       # Full analysis and modeling
 ├── Train_data.csv              # Training data
-├── Test_data.csv               # Unlabeled test data
 ├── README.md                   # Project overview (this file)
 
 
@@ -87,7 +85,7 @@ Although the dataset includes a separate test file, this project focuses on trai
 ## 🔗 Connect
 
 - https://www.linkedin.com/in/rohit-bangar-24b174305/
-- 
+- https://www.linkedin.com/posts/rohit-bangar-24b174305_nptel-pythonfordatascience-machinelearning-activity-7327283692282773504-Ne6e?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE3M71sBvXL6bjEf0VycjRfBCY_j_CGjk1o
 
 ---
 
